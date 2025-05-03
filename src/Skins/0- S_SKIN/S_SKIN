@@ -1,0 +1,17 @@
+name = granddad
+realname = Grand_Dad
+ability = CA_NONE
+ability2 = CA2_MELEE
+mindash = 0
+maxdash = 2
+normalspeed = 20
+thrustfactor = 5
+accelstart = 75
+acceleration = 25
+height = 45
+spinheight = 25
+startcolor = 96
+prefcolor = Seven
+prefoppositecolor = Gold
+highresscale = 1.25
+flags = SF_HIRES|SF_FASTEDGE|SF_NOJUMPSPIN
